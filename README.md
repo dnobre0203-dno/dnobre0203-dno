@@ -6,8 +6,8 @@ Telecommunications engineer with an executive mba in business management. Postgr
 - 👯 teaming up with my DSA T6 squad on Olist’s reputation project  
 
 ### Skills & Superpowers
-- portfolio & strategic management '
-  - governance & risk management  
+- portfolio & strategic management
+- governance & risk management  
 - program & project management  
 - agile methodologies & scrum mastery  
 - value proposition & okr management
