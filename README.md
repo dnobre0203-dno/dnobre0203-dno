@@ -6,10 +6,6 @@
 - ☕ Powered by water & late-night commits  
 - 🐛 Breaking stuff here just to fix it better
 
-  </div>
-     < a href="https://github.com/dnobre0203-dno">
-  </div>
-
 #### About
 
 Telecommunications engineer with an Executive MBA in business management and postgraduate studies in digital transformation, emerging technologies, and agility. I operate at the intersection of strategy, innovation, and execution, connecting multidisciplinary teams, agile processes, and digital solutions to turn strategic goals into tangible results.
