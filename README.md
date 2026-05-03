@@ -1,7 +1,10 @@
 ### Hi there! I am Denise Nobre!
 telecommunications engineer with an executive mba in business management
+
 postgrad studies in digital transformation, emerging tech, and agility
+
 at the crossroads of strategy, innovation, and execution
+
 connecting teams, agile processes, and digital solutions to turn big goals into real results
 
 
