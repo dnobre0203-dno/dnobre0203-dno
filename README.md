@@ -12,8 +12,10 @@ Telecommunications engineer with an Executive MBA in business management and pos
 
 I believe leadership is a continuous learning journey. That’s why I focus on building experiences that positively impact customers, business, and people, guided by systemic thinking, collaboration, and passion for innovation.
 
-Always involved in challenges that combine strategic vision, technical expertise, and executional strength, data informed, to lead successful and sustainable transformations.
+Always involved in challenges that combine strategic vision, technical expertise, and executional strength.
+Data informed to lead successful and sustainable transformations.
 
 Currently pursuing an MBA in Data Science and a specialization in Data Analysis.
+DASSM, OKR and PMP Certified. On RMP certification preparation.
 
 Skills: portfolio management; strategic planning; business strategy; sales management; governance; program management; project management; risk management; artificial intelligence; AIoT; internet of things; team building; team leadership; senior scrum master; agile methodologies; experience building and operating complex systems; software engineering projects; value proposition; okr management; relationship management; performance report; activity dashboards; data science.
