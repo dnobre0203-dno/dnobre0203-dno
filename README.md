@@ -9,7 +9,8 @@ At the crossroads of strategy, innovation, and execution.
 Connecting teams, agile processes, and digital solutions to turn big goals into real results.
 
 
-- 🚀 leadership on continuous learning  
+- 🚀 leadership
+- 📚 continuous learning  
 - 🤝 building experiences that impact customers, business, and people  
 - 🔍 guided by systems thinking, collaboration & a love for innovation  
 
