@@ -3,7 +3,7 @@
 - 🔭 Diving into telecom strategies  
 - 🌱 Currently leveling up in data science  
 - 👯 Teaming up with my DSA T6 squad on Olist’s reputation project  
-- ☕ Powered by water &late-night commits  
+- ☕ Powered by water & late-night commits  
 - 🐛 Breaking stuff here just to fix it better
 
 #### About
