@@ -12,5 +12,6 @@ Telecommunications engineer with an executive mba in business management. Postgr
 - agile methodologies & scrum mastery  
 - value proposition & okr management
 - executive reviews books & performance management
-- complex systems & software engineering projects
+- digital transformation, sales & marketing on telecommunications market
+- complex it systems & software engineering projects
 - artificial intelligence, aiot & iot    
