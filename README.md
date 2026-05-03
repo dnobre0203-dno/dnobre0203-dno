@@ -1,24 +1,24 @@
 ### Hi there! I am Denise Nobre!
 
-Telecommunications engineer with an Executive MBA in Business Management. Postgrad studies in Digital Transformation, Emerging Tech, and Agility. I live at the crossroads of strategy, innovation, and execution. Connecting teams, agile processes, and digital solutions to turn big goals into real results.
+Telecommunications engineer with an executive mba in business management. Postgrad studies in digital transformation, emerging tech, and agility. At the crossroads of strategy, innovation, and execution. Connecting teams, agile processes, and digital solutions to turn big goals into real results.
 
-- 🚀 Leadership on continuous learning  
-- 🤝 Building experiences that impact customers, business, and people  
-- 🔍 Guided by systems thinking, collaboration & a love for innovation  
+- 🚀 leadership on continuous learning  
+- 🤝 building experiences that impact customers, business, and people  
+- 🔍 guided by systems thinking, collaboration & a love for innovation  
 
-- 🌱 Currently leveling up in data science  
-- 👯 Teaming up with my DSA T6 squad on Olist’s reputation project  
-- 🎯 Preparing for RMP certification  
-- ✅ Certified in DASSM, OKR, PMP  
+- 🌱 currently leveling up in data science  
+- 👯 teaming up with my DSA T6 squad on Olist’s reputation project  
+- 🎯 preparing for RMP certification  
+- ✅ certified in dassm, okr, and pmp
 
 ### Skills & Superpowers
-- Portfolio & Strategic Management  
-- Business Strategy & Sales  
-- Governance & Risk Management  
-- Program & Project Management  
-- Artificial Intelligence, AIoT & IoT  
-- Agile Methodologies & Scrum Mastery  
-- Complex Systems & Software Engineering Projects  
-- Value Proposition & OKR Management  
-- Relationship Management & Performance Reporting  
-- Dashboards & Data Science  
+- portfolio & strategic management  
+- business strategy & sales  
+- governance & risk management  
+- program & project management  
+- artificial intelligence, aiot & iot  
+- agile methodologies & scrum mastery  
+- complex systems & software engineering projects  
+- value proposition & okr management  
+- relationship management & performance reporting  
+- dashboards & data science  
